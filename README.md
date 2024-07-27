@@ -4,8 +4,7 @@
 
 The animation production process often involved multiple revisions and feedback loops, which significantly impacted project timelines and quality. This project aimed to analyze the frequency, timing, and effects of revisions and feedback on the production process. The goal was to identify patterns and best practices to help streamline feedback processes, reduce unnecessary delays, and enhance the overall efficiency and quality of the animation output.
 
-![992d4be1-73cc-4fc4-94d5-a619b845e6ad](https://github.com/user-attachments/assets/51d3e1c1-3f93-43dc-b034-a4491c458007)
-
+![image](https://github.com/user-attachments/assets/dc95722c-1e68-46ad-bbb8-1f7e268e8865)
 
 ## **Data Collection Methodology**
 
@@ -48,16 +47,19 @@ The animation production process often involved multiple revisions and feedback 
 
 ### **Visualizations:**
 - **Histogram:** Display the distribution of the number of rounds of revisions per episode.
-![ded00f1b-a55f-42d6-a762-96d23cae863c](https://github.com/user-attachments/assets/49c4a6d6-8300-4a12-98fa-258416386009)
+![image](https://github.com/user-attachments/assets/e4281d80-5097-412e-a0d6-c268f7f5b489)
+
 
 - **Boxplots:** Showing the time added by revision rounds across different studios and stages.
-![5cfbf4a9-a061-48ad-a4fe-9fab7c143079](https://github.com/user-attachments/assets/07668ce9-a0c3-418d-9240-42370666dc34)
+![image](https://github.com/user-attachments/assets/92a72d58-47c1-4ff9-809e-e8800f9e86a6)
+
 
 - **Pie Charts:** Illustrating the proportion of revisions by reason.
 ![d88e2ade-133f-42ed-ac78-f2248c8f80c5](https://github.com/user-attachments/assets/5f4cfa4b-1aa1-408c-89f1-08fc3ab10b5c)
 
 - **Scatter Plots:** Illustrating the correlation between the number of revision rounds and client satisfaction, featuring a trend line and a reference for typical satisfaction levels.
-![79bc97b2-121f-4f5b-9e6b-211b5b5ebe63](https://github.com/user-attachments/assets/20c7ccf8-8d51-41c5-ab5f-8d8b7f60a106)
+![image](https://github.com/user-attachments/assets/0de64774-5e6d-442f-8446-c27c4b87ab63)
+
 
 
 ---
