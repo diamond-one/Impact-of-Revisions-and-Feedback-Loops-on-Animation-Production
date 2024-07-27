@@ -1,4 +1,4 @@
-# **Project Proposal: Impact of Revisions and Feedback Loops on Animation Production**
+**Impact of Revisions and Feedback Loops on Animation Production**
 
 ## **Introduction**
 
